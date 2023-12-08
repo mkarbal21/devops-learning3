@@ -1,0 +1,4 @@
+
+How to pull all data from git?
+git fetch –all command retrieves metadata on each change made to all the branches in a repository. The git pull –all command downloads all of the changes made across all branches to your local machine.
+
